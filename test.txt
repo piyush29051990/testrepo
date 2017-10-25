@@ -1,4 +1,4 @@
-my test
+my test test merge
 my tet 1
 my test
 my tet 1
